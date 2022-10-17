@@ -1,8 +1,8 @@
 #!/bin/bash
-#sscriptin infirmativo ()
+#sscriptin infirmativo 
 clear
 
-(bash EFRHACK1.sh)
+bash EFRHACK1.sh
 #!/bin/bash
 echo "   __________________________________________________________________________
                                   ETHICAL HACKING
