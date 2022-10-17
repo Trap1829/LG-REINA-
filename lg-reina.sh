@@ -32,7 +32,7 @@ echo " [ 4 ]  TROYANOS"
 echo " [ 5 ] SEGURIDAD INFORMATICA"
 echo "" 
 echo " [ 0 ] SALIR DEL PROGRAMA"
-"|lolcat -a -d 2
+
 
 OPC=6
 
