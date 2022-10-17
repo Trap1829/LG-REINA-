@@ -81,7 +81,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+        bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -114,7 +114,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+       bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -129,7 +129,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -148,7 +148,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+       bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -163,7 +163,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -184,7 +184,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+       bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -199,7 +199,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -216,8 +216,8 @@ echo -e "\033[38;5;21m"
           [ INFIRMACION SOBRE TERMUX ]
 
 echo ""
-echo " [ 1 ] ATRAS"
-echo
+echo " [ 1 ] ATRAS". 
+        bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -232,7 +232,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -275,7 +275,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+        bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -290,7 +290,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -306,7 +306,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+        bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -321,7 +321,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -337,7 +337,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+       bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -352,7 +352,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -372,7 +372,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -387,7 +387,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -402,7 +402,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+    bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -417,7 +417,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -539,7 +539,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+  bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -554,7 +554,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -569,7 +569,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+  bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -584,7 +584,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -600,7 +600,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -615,7 +615,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -645,7 +645,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -660,7 +660,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -677,7 +677,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -737,7 +737,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -767,7 +767,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -782,7 +782,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -805,7 +805,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -820,7 +820,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -836,7 +836,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -851,7 +851,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
@@ -863,7 +863,7 @@ echo -e "\033[38;5;21m"
 
 echo ""
 echo " [ 1 ] ATRAS"
-echo
+bash lg-reina.sh
 echo " [ 99 ] SALIR DEL PROGRAMA"
 echo
 
@@ -878,7 +878,7 @@ if           [ $OPC -gt 7 ]; then
              echo ""
 
 elif         [ $OPC -eq 1 ]; then
-             bash e
+             bash lg-reina.sh
 elif         [ $OPC -eq 99 ]; then
              exit
              echo "ponte a Estudiar y no ajas tranpa"
