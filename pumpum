@@ -1,0 +1,54 @@
+shopt -s histappend
+shopt -s histverify
+export HISTCONTROL=ignoreboth
+PROMPT_DIRTRIM=2
+clear
+PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;98m[§[§>¶AEticoTICO<§] §]\e[0;31m───>
+echo "   __________________________________________________________________________
+                                  ETHICAL HACKING
+   __________________________________LG_GREYNA________________________________
+"|lolcat -a -d 2
+cat << 'EOF'
+
+                                    .cd:
+                                   'olxOo.
+                                  ;lox0KOd,         .
+                          :'      ..lOXKk'.       'ld
+                          ;Okc.    .okXXk.       ldO,
+                          '0Ol...:;cxOKXKc';;...lO0x
+                          .OKOo:;coxKKKKK0OxdxkOKK0,
+                           k00kkkOOkOOkOkxdxk0XXK0o
+                           ookxollllllcclcc:loxxol.
+                         ;.,,,'cdldOkdOko::c:,'';. .
+                         :'',;::;,.,:'dcc;',::;;,,::
+                         o.;c;dko;':c:kl;l:cdodl::.:
+                        .l:l:,cOKOxdokNxoooO0XO;;cl;
+                       .,coo:',lk0k:ckKdll,dOd,,:ccl;.
+                      ':cddd:;'.''.,;od,.'',',ccccollc;'c
+                     .cclldc;:lolldoc;'',cddl:cl,lclxdcc,
+                  'c,c:llcolcc,:lll:lcdd:;:lkxxo;:lcoxdlcc'
+                  'cc:;ccdooodllc,,;,,',,,'.,,;,:oocodkdlod.
+                  ...,cldlldcloloocc:;;;;;;::;:ccldlldxocox.
+                 ,:.clc:cll,,codlooo:cxccoo:dcloxllllkOkk:o'.
+                 .;:c;,okc,,clxllcl:;o:clcxlcollxloll;ox;
+                     ,odl;ccllocc,l.:c.:cccoc:,xxll;c::dl'.
+                    .l,. :l:l:cccol.:d.;clllc,'dool::'
+                     .'. .dlldocodd;:x;:ccl:oc,lcol;.
+                          ,'.odoxxl,okllc::;ol:,co,..
+                             '; cdl,odxoc;c,co. 'll.
+                                 .;;'oxol'o'.l..
+                                     :c,.  .
+
+EOF
+echo "   __________________________________________________________________________
+                                  ETHICAL HACKING
+   __________________________________LG_GREYNA________________________________
+"|lolcat -a -d 2
+echo "
+   ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◤◢◤◢◤◢◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
+  _|/||/ / _ \/ __ \/ __/ __/  _/ _ \/ __ \/ |/ /|/||/ /
+ / - |/_/ ___/ /_/ /\ \/ _/_/ // // / /_/ /    / - |/_/
+/_/|_/ /_/   \____/___/___/___/____/\____/_/|_/_/|_/ /
+◤◢◤◢/_/◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◤◢◤◢◤◢◢◤◢◤◢◢◤◤◢◤◢◤◢◢◤◢◤◢◢◤◤/_/
+    ::::::::::::::ANDROMEDA-ETICO:::::::::::::
+"|lolcat -a -d 2
