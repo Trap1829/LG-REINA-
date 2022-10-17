@@ -21,6 +21,7 @@ echo "
        SCRIPT ECHO CON COLABORACION DE LA ESCUELA DE HACKING ETICO
 ◢◤◢◤◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◤◢◤◢◤
     ::::::::::::::::::::::::::LG REINA::::::::::::::::::::::::::
+"|lolcat -a -d 2
 
 echo "           [ ELIGA UNA OBCION ]            "
 echo
